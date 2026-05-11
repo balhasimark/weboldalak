@@ -81,8 +81,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:title", content: "LuxDetail Autókozmetika — Veszprém" },
       { name: "twitter:description", content: "Prémium autókozmetika Veszprémben — külső-belső takarítás, polírozás, kerámiabevonat. Online időpontfoglalás." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/757ba1da-a3d9-4c13-861a-237b022def6f/id-preview-2c229a04--a12ba106-0268-4c52-bc1e-6a3069422738.lovable.app-1778439526487.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/757ba1da-a3d9-4c13-861a-237b022def6f/id-preview-2c229a04--a12ba106-0268-4c52-bc1e-6a3069422738.lovable.app-1778439526487.png" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/757ba1da-a3d9-4c13-861a-237b022def6f/id-preview-2c229a04--a12ba106-0268-4c52-bc1e-6a3069422738.-1778439526487.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/757ba1da-a3d9-4c13-861a-237b022def6f/id-preview-2c229a04--a12ba106-0268-4c52-bc1e-6a3069422738.-1778439526487.png" },
     ],
     links: [
       {
